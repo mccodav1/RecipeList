@@ -1,5 +1,10 @@
-1 Bread 
-1 Colby jack cheese
-1 Swiss cheese 
-1 Tomato sauce 
-1 Butter
+6
+Slices of Bread
+3
+Slice Colby Jack cheese
+3
+Slice Swiss cheese
+1
+Can Family Tomato Soup
+1
+Butter
