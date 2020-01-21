@@ -1,0 +1,15 @@
+42	Slices Of Bread
+21	Slice Colby Jack Cheese
+21	Slice Swiss Cheese
+7	Can Family Tomato Soup
+7	Butter
+5	Spaghetti
+5	Spaghetti Sauce
+5	Beef Broth
+5	Red Bell Pepper
+5	Hot Italian Sausage
+
+Ingredients above to create:
+
+Grilled Cheese: 7
+Spaghetti: 5

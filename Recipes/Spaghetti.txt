@@ -1,5 +1,10 @@
-1 Spaghetti
-1 Tomato sauce
-1 Beef broth
-1 Red bell pepper
-1 Hot Italian sausage
+1
+Spaghetti
+1
+Spaghetti Sauce
+1
+Beef broth
+1
+Red bell pepper
+1
+Hot Italian sausage
