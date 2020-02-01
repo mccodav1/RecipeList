@@ -1,3 +1,4 @@
+#! python3 
 # JT'sDinner
 # Dave's easy solution to creating dinner menus and aggregating ingredients!
 # Written 1/20/2020 by David McConnell
